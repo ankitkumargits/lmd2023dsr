@@ -1,2 +1,3 @@
 # dsrlmdconsulting
-Each day of dsr 
+Each day of DSR 
+Each Month of MSR 
